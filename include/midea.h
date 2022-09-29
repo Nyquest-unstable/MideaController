@@ -9,7 +9,6 @@ private:
 
 public:
     void sendMideaOpen(unsigned char A, unsigned char B, unsigned char C);
-    void getcode(unsigned char A, unsigned char B, unsigned char C);
     void sendMeidi_CLOSE();
 };
 
